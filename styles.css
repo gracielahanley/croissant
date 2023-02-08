@@ -1,0 +1,45 @@
+body {
+    background-color: #FAEAB1;
+}
+h1{
+    text-align: center;
+    margin-top: 30px;
+}
+p {
+    font-size: 14px;
+    text-align: center;
+}
+a {
+    text-align: center;
+}
+.links {
+    text-align: center;
+}
+a {
+    margin: 0 10px;
+    color: #3C2317;
+}
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 40px;
+}
+.photolinks {
+    margin-top: 50px;
+}
+.imagen > img {
+    border-radius: 10px;
+    max-width: 45%;
+    display: block;
+}
+.imagen {
+    display: flex;
+    justify-content: center;
+}
+.contact-paragraph {
+    font-size: 20px;
+}
+.mail-link {
+    font-size: 20px;
+    margin: 0px;
+}
